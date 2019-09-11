@@ -1,1 +1,0 @@
-Repository for 2nd holberton project
